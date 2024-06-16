@@ -1,4 +1,4 @@
-### Cold Emailer for Cold Mailing HR Representatives
+## Cold Mailer for Cold Mailing HR Representatives
 
 This Python script is designed to automate the process of sending cold emails to HR representatives of different companies. The script reads HR details from a CSV file, customizes an email template for each recipient, and sends the emails with an attached resume using the SMTP protocol.
 ## Features
